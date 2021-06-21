@@ -1,6 +1,3 @@
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://www.vingle.net/denniswalters84
----------------------------------------------------
 https://www.vingle.net/posts/3762990
 https://www.vingle.net/posts/3763304
 https://www.vingle.net/posts/3763315
@@ -31,9 +28,6 @@ https://www.vingle.net/posts/3773607
 https://www.vingle.net/posts/3773611
 https://www.vingle.net/posts/3773618
 https://www.vingle.net/posts/3773627
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://github.com/denniswalters84
----------------------------------------------------
 https://github.com/denniswalters84/Mconnect-Advanced-Ajax-Layered-Navigation-for-Magento-2
 https://github.com/denniswalters84/Mconnect-Products-Label-Extension-for-Magento-2
 https://github.com/denniswalters84/Mconnect-Shipping-Rules-Extension-for-Magento-2/
@@ -64,9 +58,6 @@ https://github.com/denniswalters84/Mconnect-Ajax-Login-Basic-Popup-Extension-for
 https://github.com/denniswalters84/Mconnect-Ajax-Product-Infinite-Scroll-Extension-for-Magento-2
 https://github.com/denniswalters84/mconnect-featured-product-extension-master/
 https://github.com/denniswalters84/Mconnect-Product-Quick-View-Extension-for-Magento-2
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://alternativeto.net/
----------------------------------------------------
 https://alternativeto.net/software/mconnect-advanced-ajax-layered-navigation-for-magento-2/about/
 https://alternativeto.net/software/mconnect-products-label-extension-for-magento-2/
 https://alternativeto.net/software/mconnect-shipping-rules-extension-for-magento-2/about/
@@ -97,9 +88,6 @@ https://alternativeto.net/software/mconnect-ajax-login-basic-popup-extension-for
 https://alternativeto.net/software/mconnect-angular-product-infinite-scroll-extension-for-magento-2/about/
 https://alternativeto.net/software/mconnect-featured-product-slider-extension-for-magento-2/
 https://alternativeto.net/software/mconnect-product-quick-view-extension-for-magento-2/
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://upload.cnet.com/
----------------------------------------------------
 https://download.cnet.com/Mconnect-Advanced-Ajax-Layered-Navigation-for-Magento-2/3000-2649_4-78357765.html
 https://download.cnet.com/Mconnect-Products-Label-Extension-for-Magento-2/3000-2649_4-78366540.html
 https://download.cnet.com/Mconnect-Shipping-Rules-for-Magento-2/3000-2649_4-78366539.html
@@ -124,9 +112,6 @@ https://download.cnet.com/Mconnect-Search-Autocomplete-Suggest-Extension-for-Mag
 https://download.cnet.com/Mconnect-Out-of-Stock-Notification-Extension-for-Magento-2/3000-2649_4-78533033.html
 https://download.cnet.com/Mconnect-Product-Icon-Logo-Gallery-Extension-for-Magento-2/3000-2649_4-78533091.html
 https://download.cnet.com/Mconnect-Brand-Logo-Manufacturer-Slider-Extension-for-Magento-2/3000-2649_4-78533093.html
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://www.saashub.com/
----------------------------------------------------
 https://www.saashub.com/mconnectmedia-magento-2-navigation-extension-alternatives
 https://www.saashub.com/mconnect-products-label-extension-alternatives
 https://www.saashub.com/mconnect-shipping-rules-extension-alternatives
@@ -144,9 +129,6 @@ https://www.saashub.com/advance-matrix-rate-shipping-extension-alternatives
 https://www.saashub.com/mconnect-shipping-per-country-extension-alternatives
 https://www.saashub.com/mconnectmedia-product-icon-extension-alternatives
 https://www.saashub.com/mconnect-brand-logo-slider-extension-alternatives
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://angel.co/u/denniswalters
----------------------------------------------------
 https://angel.co/projects/1152673-mconnect-advanced-ajax-layered-navigation-for-magento-2
 https://angel.co/projects/1152675-mconnect-products-label-extension-for-magento-2
 https://angel.co/projects/1153295-mconnect-shipping-rules-extension-for-magento-2
@@ -177,9 +159,6 @@ https://angel.co/projects/1155652-mconnect-ajax-login-basic-popup-extension-for-
 https://angel.co/projects/1155654-mconnect-angular-product-infinite-scroll-extension-for-magento-2
 https://angel.co/projects/1155649-mconnect-featured-product-slider-extension-for-magento-2
 https://angel.co/projects/1155647-mconnect-product-quick-view-extension-for-magento-2
----------------------------------------------------
-https://www.mconnectmedia.com/ - list.ly
----------------------------------------------------
 https://list.ly/i/4208801
 https://list.ly/i/4230793
 https://list.ly/i/4248103
@@ -210,9 +189,6 @@ https://list.ly/i/4711334
 https://list.ly/i/4711351
 https://list.ly/i/4711329
 https://list.ly/i/4711317
----------------------------------------------------
-https://www.mconnectmedia.com/ - carvedcode.com
----------------------------------------------------
 https://carvedcode.com/listing/mconnect-advanced-ajax-layered-navigation-for-magento-2/11782
 https://carvedcode.com/listing/mconnect-products-label-extension-for-magento-2/11784
 https://carvedcode.com/listing/mconnect-shipping-rules-for-magento-2/11786
@@ -243,9 +219,6 @@ https://carvedcode.com/listing/mconnect-ajax-login-basic-popup-extension-for-mag
 https://carvedcode.com/listing/mconnect-angular-product-infinite-scroll-extension-for-magento-2/11910
 https://carvedcode.com/listing/mconnect-featured-product-slider-extension-for-magento-2/11908
 https://carvedcode.com/listing/mconnect-product-quick-view-extension-for-magento-2/11907
----------------------------------------------------
-https://www.mconnectmedia.com/ - http://magentoexpertforum.com
----------------------------------------------------
 http://magentoexpertforum.com/showthread.php/27462-Magento-2-Layered-Navigation-by-Mconnect-Advanced-Navigation-amp-SEO-Extension?highlight=mconnect
 http://magentoexpertforum.com/showthread.php/28830-Mconnect-Products-Label-Extension-for-Magento-2?p=71432#post71432
 http://magentoexpertforum.com/showthread.php/28849-Mconnect-Shipping-Rules-for-Magento-2?p=71525#post71525
@@ -275,9 +248,6 @@ http://magentoexpertforum.com/showthread.php/29424-Mconnect-Product-Quick-View-E
 http://magentoexpertforum.com/showthread.php/29426-Mconnect-Angular-Product-Infinite-Scroll-Extension-for-Magento-2?p=73865#post73865
 http://magentoexpertforum.com/showthread.php/29425-Mconnect-Featured-Product-Slider-Extension-for-Magento-2?p=73864#post73864
 http://magentoexpertforum.com/showthread.php/29404-Mconnect-Photo-(Image)-Gallery-View-Extension-for-Magento-2?p=73794#post73794
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://medium.com
----------------------------------------------------
 https://medium.com/@mconnectmedia/mconnect-advanced-ajax-layered-navigation-for-magento-2-9037b0f11995
 https://medium.com/@mconnectmedia/mconnect-products-label-extension-for-magento-2-719934c69356
 https://medium.com/@mconnectmedia/mconnect-shipping-rules-for-magento-2-4499303a2f53
@@ -289,9 +259,6 @@ https://medium.com/@mconnectmedia/mconnect-shipping-restrictions-extension-for-m
 https://medium.com/@mconnectmedia/mconnect-advanced-product-faq-extension-for-magento-2-21a62ab3bffe
 https://medium.com/@mconnectmedia/mconnect-product-image-flipper-extension-for-magento-2-c9395b886853
 https://medium.com/@mconnectmedia/mconnect-gift-card-and-certificate-extension-for-magento-2-15212ddc2f5a
----------------------------------------------------
-https://www.mconnectmedia.com/ - mamby.com
----------------------------------------------------
 https://mamby.com/post/mconnect-advanced-ajax-layered-navigation-for-magento-2
 https://mamby.com/post/mconnect-products-label-extension-for-magento-2
 https://mamby.com/post/mconnect-shipping-rules-for-magento-2
@@ -322,9 +289,6 @@ https://mamby.com/post/mconnect-ajax-login-basic-popup-extension-for-magento-2
 https://mamby.com/post/mconnect-angular-product-infinite-scroll-extension-for-magento-2
 https://mamby.com/post/mconnect-featured-product-slider-extension-for-magento-2
 https://mamby.com/post/mconnect-product-quick-view-extension-for-magento-2
----------------------------------------------------
-https://www.mconnectmedia.com/ - kaskus.co.id
----------------------------------------------------
 https://www.kaskus.co.id/thread/5df89fe30577a926f66d13f1
 https://www.kaskus.co.id/post/5ebd04edf4d6954bb43d373c#post5ebd04edf4d6954bb43d373c
 https://www.kaskus.co.id/thread/5e09c5a2349d0f358e6c2a22/
@@ -350,9 +314,6 @@ https://www.kaskus.co.id/post/5eccc564a2d19570fc2285c4#post5eccc564a2d19570fc228
 https://www.kaskus.co.id/post/5ecf927f349d0f4be635ec6e#post5ecf927f349d0f4be635ec6e
 https://www.kaskus.co.id/post/5ecf92c22525c3445b125f45#post5ecf92c22525c3445b125f45
 https://www.kaskus.co.id/post/5ed0cd5568cc9565cb710cd0#post5ed0cd5568cc9565cb710cd0
----------------------------------------------------
-https://www.mconnectmedia.com/ - cart-help.com
----------------------------------------------------
 http://cart-help.com/topic/6806-mconnect-advanced-ajax-layered-navigation-for-magento-2/
 http://cart-help.com/topic/6812-mconnect-products-label-extension-for-magento-2/
 http://cart-help.com/topic/6817-mconnect-shipping-rules-for-magento-2/
@@ -383,9 +344,6 @@ https://cart-help.com/topic/7037-mconnect-ajax-login-basic-popup-extension-for-m
 https://cart-help.com/topic/7038-mconnect-angular-product-infinite-scroll-extension-for-magento-2/
 https://cart-help.com/topic/7036-mconnect-featured-product-slider-extension-for-magento-2/
 https://cart-help.com/topic/7035-mconnect-product-quick-view-extension-for-magento-2/
----------------------------------------------------
-https://www.mconnectmedia.com/ - ello.co
----------------------------------------------------
 https://ello.co/mconnectmedia/post/gsmyo-pjb4kpiq6sbugdmq
 https://ello.co/mconnectmedia/post/u3j2mbc5hkkmfq_c72qdrq
 https://ello.co/mconnectmedia/post/ducx8hgwev1iehioapiy-w
@@ -416,9 +374,6 @@ https://ello.co/mconnectmedia/post/xg7bm_9-efwlnl0-3zcdog
 https://ello.co/mconnectmedia/post/woreubuck5kfaxnymzosfq
 https://ello.co/mconnectmedia/post/dnjgfzfsil8u9mau6lw9kg
 https://ello.co/mconnectmedia/post/1my-qylx5ejrhmn9zahyzg
----------------------------------------------------
-https://www.mconnectmedia.com/ - ello.co
----------------------------------------------------
 https://www.scriptplazza.com/mconnect-advanced-ajax-layered-navigation-for-magento-2/
 https://www.scriptplazza.com/mconnect-products-label-extension-for-magento-2/
 https://www.scriptplazza.com/product-attachment-extension-for-magento-2/
@@ -449,9 +404,6 @@ https://www.scriptplazza.com/ajax-login-basic-popup-extension-for-magento-2/
 https://www.scriptplazza.com/angular-product-infinite-scroll-extension-for-magento-2/
 https://www.scriptplazza.com/featured-product-slider-extension-for-magento-2/
 https://www.scriptplazza.com/photo-image-gallery-view-extension-for-magento-2/
----------------------------------------------------
-https://www.mconnectmedia.com/ - nairaland.com
----------------------------------------------------
 https://www.nairaland.com/5595754/mconnect-products-label-extension-magento
 https://www.nairaland.com/5605420/mconnect-shipping-rules-magento-2
 https://www.nairaland.com/5843664/mconnect-product-attachment-extension-magento
@@ -475,9 +427,6 @@ https://www.nairaland.com/5882985/mconnect-product-part-finder-extension
 https://www.nairaland.com/5883325/mconnect-out-stock-notification-extension
 https://www.nairaland.com/6603824/mconnect-product-icon-logo-gallery
 https://www.nairaland.com/6603872/mconnect-brand-logo-manufacturer-slider
----------------------------------------------------
-https://www.mconnectmedia.com/ - http://mconnectmedia.over-blog.com/
----------------------------------------------------
 http://mconnectmedia.over-blog.com/2019/12/mconnect-advanced-ajax-layered-navigation-for-magento-2.html
 http://mconnectmedia.over-blog.com/2019/12/mconnect-products-label-extension-for-magento-2.html
 http://mconnectmedia.over-blog.com/2019/12/mconnect-shipping-rules-for-magento-2.html
@@ -508,9 +457,6 @@ http://mconnectmedia.over-blog.com/2020/06/ajax-login-basic-popup-extension-for-
 http://mconnectmedia.over-blog.com/2020/06/mconnect-angular-product-infinite-scroll-extension-for-magento-2.html
 http://mconnectmedia.over-blog.com/2020/06/mconnect-product-quick-view-extension-for-magento-2.html
 http://mconnectmedia.over-blog.com/2020/06/mconnect-featured-product-slider-extension-for-magento-2.html
----------------------------------------------------
-https://www.mconnectmedia.com/ - ko-fi.com
----------------------------------------------------
 https://www.ko-fi.com/Blog/Post/Mconnect-Advanced-Ajax-Layered-Navigation-for-Mage-P5P61BBEN
 https://www.ko-fi.com/post/Mconnect-Products-Label-Extension-for-Magento-2-G2G21BBF3
 https://www.ko-fi.com/post/Mconnect-Shipping-Rules-for-Magento-2-Y8Y71BBFB
@@ -541,9 +487,6 @@ https://ko-fi.com/Blog/Post/Mconnect-Ajax-Login-Basic-Popup-Extension-for-Mage-T
 https://ko-fi.com/Blog/Post/Mconnect-Angular-Product-Infinite-Scroll-Extension-Q5Q21S00O
 https://ko-fi.com/Blog/Post/Mconnect-Featured-Product-Slider-Extension-for-Mag-U6U31S00S
 https://www.ko-fi.com/post/Mconnect-Product-Quick-View-Extension-for-Magento-K3K21RZXB
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://denniswalters84.blogspot.com/
----------------------------------------------------
 https://denniswalters84.blogspot.com/2020/05/mconnect-advanced-ajax-layered.html
 https://denniswalters84.blogspot.com/2020/05/mconnect-products-label-extension-for.html
 https://denniswalters84.blogspot.com/2020/05/mconnect-shipping-rules-for-magento-2.html
@@ -574,9 +517,6 @@ https://denniswalters84.blogspot.com/2020/06/mconnect-ajax-login-basic-popup.htm
 https://denniswalters84.blogspot.com/2020/06/mconnect-angular-product-infinite.html
 https://denniswalters84.blogspot.com/2020/06/mconnect-featured-product-slider.html
 https://denniswalters84.blogspot.com/2020/06/mconnect-product-quick-view-extension.html
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://denniswalters.home.blog
----------------------------------------------------
 https://denniswalters.home.blog/2020/05/11/mconnect-advanced-ajax-layered-navigation-for-magento-2/
 https://denniswalters.home.blog/2020/05/11/mconnect-products-label-extension-for-magento-2/
 https://denniswalters.home.blog/2020/05/11/mconnect-shipping-rules-for-magento-2/
@@ -607,9 +547,6 @@ http://denniswalters.home.blog/2020/06/02/mconnect-ajax-login-basic-popup-extens
 https://denniswalters.home.blog/2020/06/02/mconnect-angular-product-infinite-scroll-extension-for-magento-2/
 https://denniswalters.home.blog/2020/06/02/mconnect-featured-product-slider-extension-for-magento-2/
 https://denniswalters.home.blog/2020/06/02/mconnect-product-quick-view-extension-for-magento-2/
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://kuntal.org/kuntal/bookmarks/owner/denniswalters84
----------------------------------------------------
 https://kuntal.org/kuntal/bookmarks/view/3737/mconnect-advanced-ajax-layered-navigation-for-magento-2
 https://kuntal.org/kuntal/bookmarks/view/3739/mconnect-products-label-extension-for-magento-2
 https://kuntal.org/kuntal/bookmarks/view/3740/mconnect-shipping-rules-extension-for-magento-2
@@ -640,9 +577,6 @@ https://kuntal.org/kuntal/bookmarks/view/4250/mconnect-ajax-login-basic-popup-ex
 https://kuntal.org/kuntal/bookmarks/view/4251/mconnect-angular-product-infinite-scroll-extension-for-magento-2
 https://kuntal.org/kuntal/bookmarks/view/4249/mconnect-featured-product-slider-extension-for-magento-2
 https://kuntal.org/kuntal/bookmarks/view/4248/mconnect-product-quick-view-extension-for-magento-2
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://gumroad.com/
----------------------------------------------------
 https://gumroad.com/denniswalters84/p/mconnect-advanced-ajax-layered-navigation-for-magento-2
 https://gumroad.com/denniswalters84/p/mconnect-products-label-extension-for-magento-2
 https://gumroad.com/denniswalters84/p/mconnect-shipping-rules-extension-for-magento-2
@@ -673,9 +607,6 @@ https://gumroad.com/denniswalters84/p/mconnect-ajax-login-basic-popup-extension-
 https://gumroad.com/denniswalters84/p/mconnect-angular-product-infinite-scroll-extension-for-magento-2
 https://gumroad.com/denniswalters84/p/mconnect-featured-product-slider-extension-for-magento-2
 https://gumroad.com/denniswalters84/p/mconnect-product-quick-view-extension-for-magento-2
----------------------------------------------------
-https://www.mconnectmedia.com/ - http://www.socialbookmarkssite.com/
----------------------------------------------------
 http://www.socialbookmarkssite.com/bookmark/2453515/mconnect-advanced-ajax-layered-navigation-for-magento-2/
 http://www.socialbookmarkssite.com/bookmark/2455852/mconnect-products-label-extension-for-magento-2/
 http://www.socialbookmarkssite.com/bookmark/2455857/mconnect-shipping-rules-extension-for-magento-2/
@@ -706,9 +637,6 @@ http://www.socialbookmarkssite.com/bookmark/2458693/mconnect-product-quick-view-
 http://www.socialbookmarkssite.com/bookmark/2458699/mconnect-angular-product-infinite-scroll-extension-for-magento-2/
 http://www.socialbookmarkssite.com/bookmark/2458697/mconnect-featured-product-slider-extension-for-magento-2/
 http://www.socialbookmarkssite.com/bookmark/2455908/mconnect-out-of-stock-notification-extension-for-magento-2/
----------------------------------------------------
-https://www.mconnectmedia.com/ - https://writeablog.net/
----------------------------------------------------
 https://writeablog.net/3qps49s35c
 https://writeablog.net/phivp2303m
 https://writeablog.net/9fkakmx4oq
